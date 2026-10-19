@@ -6,8 +6,8 @@ This repository brings together Jupyter notebooks from the course and a collabor
 
 ## Repository contents
 
-- **[Final project — Room Occupancy Classification Using Deep Learning](./MPA_MLF_Final_Project_Rafael_Miguel_%281%29%20%281%29.ipynb):** four-class occupancy prediction using radar images and EfficientNet-B0. Developed jointly by Rafael Estévez Marrero and Miguel Martín de las Heras.
-- **Coursework notebooks:** the other exercise and lab notebooks in this repository cover assignments from the Machine Learning Fundamentals course.
+- **[Final project — Room Occupancy Classification Using Deep Learning](./final-project/MPA_MLF_Final_Project_Rafael_Miguel_%281%29%20%281%29.ipynb):** four-class occupancy prediction using radar images and EfficientNet-B0. Developed jointly by Rafael Estévez Marrero and Miguel Martín de las Heras.
+- **[Coursework notebooks](./coursework/):** nine exercise and lab notebooks from the Machine Learning Fundamentals course, kept under their original filenames.
 
 ## Featured final project: Room Occupancy Classification Using Deep Learning
 
@@ -65,7 +65,7 @@ The reported validation results are taken from the project's final academic repo
 
 ## Explore the project
 
-**[Open the final project notebook](./MPA_MLF_Final_Project_Rafael_Miguel_%281%29%20%281%29.ipynb)**
+**[Open the final project notebook](./final-project/MPA_MLF_Final_Project_Rafael_Miguel_%281%29%20%281%29.ipynb)**
 
 The repository also contains coursework from the Machine Learning Fundamentals course. The linked Jupyter notebook contains the final project's data pipeline, model implementation, training and evaluation workflow.
 
