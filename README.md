@@ -1,4 +1,15 @@
-# Room Occupancy Classification Using Deep Learning
+# Machine Learning Fundamentals — Coursework & Final Project
+
+Academic **Machine Learning Fundamentals** coursework completed during the **2025/2026 Erasmus+ exchange at Brno University of Technology**.
+
+This repository brings together Jupyter notebooks from the course and a collaborative final deep-learning project. The original coursework notebooks are kept with their course filenames.
+
+## Repository contents
+
+- **[Final project — Room Occupancy Classification Using Deep Learning](./MPA_MLF_Final_Project_Rafael_Miguel_%281%29%20%281%29.ipynb):** four-class occupancy prediction using radar images and EfficientNet-B0. Developed jointly by Rafael Estévez Marrero and Miguel Martín de las Heras.
+- **Coursework notebooks:** the other exercise and lab notebooks in this repository cover assignments from the Machine Learning Fundamentals course.
+
+## Featured final project: Room Occupancy Classification Using Deep Learning
 
 **Classifying the number of people in a room from 60 GHz radar images using EfficientNet-B0.**
 
